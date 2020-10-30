@@ -6,7 +6,7 @@ Use VBA scripting to analyze real stock market data.
 
 ### Files
 
-* [Test Data](Resources/alphabetical_testing.xlsx) - to developing scripts.
+* [Test Data](Resources/alphabetical_testing.xlsx) - to develop scripts.
 
 * [Stock Data](Resources/Multiple_year_stock_data.xlsx) - to run scripts and final report.
 
